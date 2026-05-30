@@ -125,7 +125,7 @@ print(me.motto())
 | 🛠️ | GitHub Developer Toolkit | Completion Certificate |
 | 📊 | Data Analysis Webinar | Participation Certificate |
 | 🎨 | UI/UX Webinar | Participation Certificate |
-| 💼 | LinkedIn Profile | [Bharath Murugan](www.linkedin.com/in/bharath-murugan-39aa5636b) |
+| 💼 | LinkedIn Profile | [Bharath Murugan]([www.linkedin.com/in/bharath-murugan-39aa5636b](https://www.linkedin.com/in/bharath-murugan-39aa5636b/)) |
 
 </div>
 
